@@ -13,6 +13,7 @@
        * Used AXIOS for the Github API request.
        * Used four different routes for the three pages (About, Discover, and Search).
        * Used various components to make it more reusable.
+       * Used links to connect every github repository on the discover page to it's corresponding page
        * Used replace and sort methods for sorting descending and removing the hyphens
        * Used gitignore to avoid commitiing node modules and etc to github.
     
