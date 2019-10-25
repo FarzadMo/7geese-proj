@@ -10,7 +10,7 @@
  *  The app is a React web application created with React.js, and some Bootstrap techniques. 
  
        * Used React to manage the frontend.
-       * Used AXIOS for the Github API call.
+       * Used AXIOS for the Github API request.
        * Used four different routes for the three pages (About, Discover, and Search).
        * Used various components to make it more reusable.
        * Used replace and sort methods for sorting descending and removing the hyphens
