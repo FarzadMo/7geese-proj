@@ -30,7 +30,7 @@
 ### Model setup
 1.	As already described in DB setup section, the app is not using any backend setup on MVC platform, so there was no need to define our model or how it connects to our DB.
  
-**Note:** There were many more features that could be implemented, like having tables and show the results in them and then re-use that table component for the search page again, or writing tests for edge cases (e.g. if the user search not the exact name of a repository). Unfortunately as I am approaching the end of my program at UoT and working at the same time, I had limited opportunity to work on this task. 
+**Note:** There were many more features that could be implemented, like having tables and show the results in them and then re-use that table component for the search page again, or writing tests for edge cases (e.g. if the user search not the exact name of a repository). Unfortunately as I am approaching the end of my program at UoT and working at the same time, I had limited opportunity to work on this task. Hope you find my endeavour satisfactory.Thank you.
 
 ### View the App
 1.	View some of the images below:
