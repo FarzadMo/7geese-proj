@@ -42,5 +42,5 @@
 
 
 ### Contributor:
-   ##### Farzad Moghbel
+   ##### Farzad
 
